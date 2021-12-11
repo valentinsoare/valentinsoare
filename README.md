@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @valentinsoare
+- 👀 I’m interested in Python, Bash and Unix-like operating systems. 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me - > soararevalentinn@gmal.com
