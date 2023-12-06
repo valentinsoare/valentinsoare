@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @valentinsoare
-- 👀 I’m interested in Python, Bash and Unix-like operating systems. 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Design Principles, Custom Data Structures and concurrent, parallel and distributed programming approaches 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - > soarevalentinn@gmail.com
