@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valentinsoare
-- 👀 I’m interested in Software Design Principles, Custom Data Structures and high performance apps
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @valentinsoare;
+- 👀 I’m interested in Software Design Principles, Custom Data Structures and high performance apps;
+- 🌱 I’m currently learning Java;
 - 📫 How to reach me - > soarevalentinn@gmail.com
