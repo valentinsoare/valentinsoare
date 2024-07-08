@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @valentinsoare;
 - 👀 I’m interested in Software Design Principles, Data Structures and high performance apps;
-- 🌱 I’m currently learning Java;
+- 🌱 I’m currently writing code in Java with Spring Boot;
 - 📫 How to reach me - > soarevalentinn@gmail.com
